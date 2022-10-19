@@ -8,5 +8,6 @@
 {"id":"1","name":"jesus","last":"christian","_id":"tDWTIfq0iSwW2Iu0"}
 {"id":7,"_id":"tfaHWXrACeTpMRSy"}
 {"id":5,"_id":"wMAhaqGeyWTs9qrW"}
-{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":true}}
 {"id":71,"_id":"weBfWQECB09Byy1a"}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":true}}
+{"gitusername":{"err":null,"stdout":"","stderr":""},"gituseremail":{"err":null,"stdout":"","stderr":""},"gitinit":{"err":null,"stdout":"Reinitialized existing Git repository in /var/app/current/store/.git/\n","stderr":""},"gitremote":{"err":null,"stdout":"","stderr":""},"gitbranch":{"err":null,"stdout":"","stderr":""},"gitpull":{"err":{"code":1,"killed":false,"signal":null,"cmd":"git pull origin main"},"stdout":"","stderr":"Host key verification failed.\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n"},"id":81,"_id":"P7pUvEYoC0NQCtf4"}
