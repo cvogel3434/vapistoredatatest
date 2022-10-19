@@ -1,7 +1,9 @@
+{"gitusername":{"err":null,"stdout":"","stderr":""},"gituseremail":{"err":null,"stdout":"","stderr":""},"gitinit":{"err":null,"stdout":"Reinitialized existing Git repository in /var/app/current/store/.git/\n","stderr":""},"gitremote":{"err":null,"stdout":"","stderr":""},"gitbranch":{"err":null,"stdout":"","stderr":""},"gitpull":{"err":{"code":1,"killed":false,"signal":null,"cmd":"git pull origin main"},"stdout":"","stderr":"Host key verification failed.\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n"},"id":81,"_id":"P7pUvEYoC0NQCtf4"}
 {"_id":"Up2bdeOhHUtD1kKK"}
 {"_id":"fTeBQKvL4lm6MS7b"}
 {"id":"2","name":"jesus","last":"jesus","_id":"fqsufUYBdgj0rP2k"}
 {"id":69,"_id":"gSHuZ06AnfDV4TMe"}
+{"root":"admin\napps\nstoremaps\n","gitadd":{"err":null,"stdout":"","stderr":""},"gitcomitt":{"err":null,"stdout":"[main 85b8506] database add\n 3 files changed, 75 insertions(+), 74 deletions(-)\n","stderr":""},"gitpush":{"err":{"code":128,"killed":false,"signal":null,"cmd":"git push origin main"},"stdout":"","stderr":"Host key verification failed.\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n"},"id":82,"_id":"kKm8xpyWzylR05wh"}
 {"id":4,"_id":"lbQSIAAHA1ggiIog"}
 {"id":6,"_id":"mJ31xAYS7N9Qa1cq"}
 {"_id":"o0RE1k109mghHLX6"}
@@ -10,4 +12,3 @@
 {"id":5,"_id":"wMAhaqGeyWTs9qrW"}
 {"id":71,"_id":"weBfWQECB09Byy1a"}
 {"$$indexCreated":{"fieldName":"id","unique":true,"sparse":true}}
-{"gitusername":{"err":null,"stdout":"","stderr":""},"gituseremail":{"err":null,"stdout":"","stderr":""},"gitinit":{"err":null,"stdout":"Reinitialized existing Git repository in /var/app/current/store/.git/\n","stderr":""},"gitremote":{"err":null,"stdout":"","stderr":""},"gitbranch":{"err":null,"stdout":"","stderr":""},"gitpull":{"err":{"code":1,"killed":false,"signal":null,"cmd":"git pull origin main"},"stdout":"","stderr":"Host key verification failed.\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n"},"id":81,"_id":"P7pUvEYoC0NQCtf4"}
